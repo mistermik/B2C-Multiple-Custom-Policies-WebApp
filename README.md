@@ -7,6 +7,7 @@ client: ASP.NET Core Web App
 endpoint: Microsoft identity platform
 ---
 
+
 Microsoft Identity Web now supports multiple authentication schemes, as of v.1.11.0.
 
 This means, as an app developer, you can have several authentication schemes in the same ASP.NET Core app. Such as signing-in users with two identity providers (two Azure AD web app registration), or an Azure AD app and an Azure AD B2C app, or a web app and a web API. Basically mixing authentication schemes in the same ASP.NET Core app.

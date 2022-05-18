@@ -1,7 +1,7 @@
 ---
 services: active-directory
 platforms: dotnet
-author: TiagoBrenck
+author: Michele Ferrari
 level: 100
 client: ASP.NET Core Web App
 endpoint: Microsoft identity platform
